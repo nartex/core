@@ -1,5 +1,5 @@
 {
-  "name": "@concisecss/core",
+  "name": "nartex.concise.core",
   "version": "1.0.0",
   "description": "Base styles",
   "main": "core.css",
